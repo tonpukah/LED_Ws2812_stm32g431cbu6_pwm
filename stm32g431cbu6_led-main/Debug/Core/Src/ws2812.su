@@ -1,0 +1,5 @@
+../Core/Src/ws2812.c:9:13:encode_color	32	static
+../Core/Src/ws2812.c:33:6:WS2812_Init	32	static
+../Core/Src/ws2812.c:58:6:WS2812_SetColor	32	static
+../Core/Src/ws2812.c:66:6:WS2812_Update	24	static
+../Core/Src/ws2812.c:77:6:WS2812_DMACompleteCallback	24	static
